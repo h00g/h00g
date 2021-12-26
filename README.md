@@ -1,9 +1,9 @@
 Brainpower 🧠³ 
-Experienced architect
-Inspiring idea injector
-Creative digital transformer
-Expert problem solver
-8-bit retro nerd
+ - Experienced architect
+ - Inspiring idea injector
+ - Creative digital transformer
+ - Expert problem solver
+ - 8-bit retro nerd
 
 
 <!---
